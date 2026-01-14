@@ -1,0 +1,5 @@
+discord.py
+pyton-dotenv
+pillow
+request
+discord.py>=2.3.2
